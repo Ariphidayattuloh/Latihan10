@@ -29,7 +29,8 @@ Keterangan:
 Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama
 Tambah data nilai mahasiswa
 
-![tambah](https://user-images.githubusercontent.com/72840534/101017140-47296e80-359c-11eb-9986-c85783fb8f3d.jpg)
+![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
+
 
 Keterangan:
 
