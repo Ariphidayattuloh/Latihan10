@@ -29,7 +29,7 @@ Keterangan:
 Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama
 Tambah data nilai mahasiswa
 
-![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
+![tambah](https://user-images.githubusercontent.com/72840534/101018975-d899e000-359e-11eb-8bb5-a4a9c7eee931.jpg)
 
 
 Keterangan:
@@ -99,7 +99,8 @@ Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
 
 Tambah data nilai mahasiswa
 
-![hasil tambahkan](https://user-images.githubusercontent.com/72840534/101018072-899f7b00-359d-11eb-86f6-03d2b1ca07fe.jpg)
+![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
+
 
 Tampilkan data nilai mahasiwa
 
