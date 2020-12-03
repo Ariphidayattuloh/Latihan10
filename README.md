@@ -113,26 +113,28 @@ Keterangan:
 
 Maka ini adalah hasil running dari syntax di atas:
 
-1. Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
-
-![hasil tampil menu](https://user-images.githubusercontent.com/72840534/101018021-768cab00-359d-11eb-84c0-0add2c279a8b.jpg)
 
 
-2. Tambah data nilai mahasiswa
+1. Tambah data nilai mahasiswa
 
 ![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
+
+2. Hapus data nilai mahasiswa
+
+![hasil menghapus](https://user-images.githubusercontent.com/72840534/101018259-ce2b1680-359d-11eb-8dbd-8c15db2fe560.jpg)
 
 
 3. Tampilkan data nilai mahasiwa
 
 ![hasil tampil](https://user-images.githubusercontent.com/72840534/101018176-b5226580-359d-11eb-922c-5617c85fbd6a.jpg)
 
-4. Hapus data nilai mahasiswa
 
-![hasil menghapus](https://user-images.githubusercontent.com/72840534/101018259-ce2b1680-359d-11eb-8dbd-8c15db2fe560.jpg)
+5. Tampilan Membuat menu Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
+
+![hasil tampil menu](https://user-images.githubusercontent.com/72840534/101018021-768cab00-359d-11eb-84c0-0add2c279a8b.jpg)
 
 
-5. Keluar dari program
+6. Keluar dari program
 
 ![hasil keluar program](https://user-images.githubusercontent.com/72840534/101018435-15190c00-359e-11eb-9cf4-4a1745614c17.jpg)
 
