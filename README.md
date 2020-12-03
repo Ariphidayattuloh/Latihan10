@@ -39,41 +39,7 @@ Keterangan:
 
 ○ Lalu kita buat inputan nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu kita buat hasil / total dari keseluruhan nilai
 
-2. Hapus data nilai mahasiswa
-
-![hapus](https://user-images.githubusercontent.com/72840534/101017351-8c4da080-359c-11eb-90e3-3e68ca46a5b7.jpg)
-
-Keterangan:
-
-○ Lalu seperti biasa kita gunakan def hapus agar ketika kita memilih pilihan menu hapus akan masuk ke dalam syntax ini untuk menghapus data
-
-○ Kita buat inputan nama karena kita akan menghapus data nilai mahasiswa tersebut dengan menggunakan nama mereka untuk menghapusnya
-
-○ lalu gunakan if untuk mengeksekusi data yang di dictionary menggunakan nama(True)
-
-○ Lalu del untuk menghapus semua data nilai mahasiswa tersebut
-
-○ Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
-
-3. Ubah data nilai mahasiswa
-
-![ubah](https://user-images.githubusercontent.com/72840534/101017457-b606c780-359c-11eb-9cce-a479f2e5f762.jpg)
-
-
-Keterangan:
-
-○ kita gunakan def ubah agar ketika kita memilih pilihan menu ubah akan masuk ke dalam syntax ini untuk mengubah data
-
-○ Lalu kita buat inputan nama karena kita akan mengubah data nilai mahasiswa dengan menginputkan nama mahasiswa tersebut
-
-○ Lalu if nama in data_nilai.keys untuk mengeksekusi jika nama terdapat di dalam dictionary
-
-○ Lalu kita buat inputan untuk memasukkan nilai tugas, uts, dan uas yang terbaru
-
-○ Lalu kita gunakan hasil untuk menghitung total semua nilai tersebut
-
-
-4. Tampilkan data nilai mahasiswa
+2. Tampilkan data nilai mahasiswa
 
 ![tampil](https://user-images.githubusercontent.com/72840534/101017574-d898e080-359c-11eb-95fe-10f95858bdca.jpg)
 
@@ -90,6 +56,41 @@ Keterangan:
 ○ lalu gunanya angka yang di dalam {} itu di gunakan untuk membatasi atau bisa di bilang seperti tab agar data yang di tampilkan lebih rapih
 
 ○ Lalu else disini di gunakan ketika kita belum menginputkan atau menambahkan data apapun akan muncul tidak ada data(False)
+
+
+3. Hapus data nilai mahasiswa
+
+![hapus](https://user-images.githubusercontent.com/72840534/101017351-8c4da080-359c-11eb-90e3-3e68ca46a5b7.jpg)
+
+Keterangan:
+
+○ Lalu seperti biasa kita gunakan def hapus agar ketika kita memilih pilihan menu hapus akan masuk ke dalam syntax ini untuk menghapus data
+
+○ Kita buat inputan nama karena kita akan menghapus data nilai mahasiswa tersebut dengan menggunakan nama mereka untuk menghapusnya
+
+○ lalu gunakan if untuk mengeksekusi data yang di dictionary menggunakan nama(True)
+
+○ Lalu del untuk menghapus semua data nilai mahasiswa tersebut
+
+○ Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
+
+4. Ubah data nilai mahasiswa
+
+![ubah](https://user-images.githubusercontent.com/72840534/101017457-b606c780-359c-11eb-9cce-a479f2e5f762.jpg)
+
+
+Keterangan:
+
+○ kita gunakan def ubah agar ketika kita memilih pilihan menu ubah akan masuk ke dalam syntax ini untuk mengubah data
+
+○ Lalu kita buat inputan nama karena kita akan mengubah data nilai mahasiswa dengan menginputkan nama mahasiswa tersebut
+
+○ Lalu if nama in data_nilai.keys untuk mengeksekusi jika nama terdapat di dalam dictionary
+
+○ Lalu kita buat inputan untuk memasukkan nilai tugas, uts, dan uas yang terbaru
+
+○ Lalu kita gunakan hasil untuk menghitung total semua nilai tersebut
+
 
 5. Membuat pilihan menu
 
@@ -119,17 +120,16 @@ Maka ini adalah hasil running dari syntax di atas:
 
 ![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
 
-2. Hapus data nilai mahasiswa
+2. Tampilkan data nilai mahasiwa
+
+![hasil tampil](https://user-images.githubusercontent.com/72840534/101018176-b5226580-359d-11eb-922c-5617c85fbd6a.jpg)
+
+3. Hapus data nilai mahasiswa
 
 ![hasil menghapus](https://user-images.githubusercontent.com/72840534/101018259-ce2b1680-359d-11eb-8dbd-8c15db2fe560.jpg)
 
 
-3. Tampilkan data nilai mahasiwa
-
-![hasil tampil](https://user-images.githubusercontent.com/72840534/101018176-b5226580-359d-11eb-922c-5617c85fbd6a.jpg)
-
-
-5. Tampilan Membuat menu Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
+4. Tampilan Membuat menu Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
 
 ![hasil tampil menu](https://user-images.githubusercontent.com/72840534/101018021-768cab00-359d-11eb-84c0-0add2c279a8b.jpg)
 
