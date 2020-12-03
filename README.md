@@ -1,4 +1,4 @@
-2# Latihan10
+# Latihan10
 
 BAHASA PEMROGRAMAN
 
@@ -16,16 +16,18 @@ DOSEN : Agung Nugroho,S.Kom.,M.Kom
 
 Tugas : Pertemuan 10
 
+
 ![tugas_praktikum](https://user-images.githubusercontent.com/72840534/101016895-f87bd480-359b-11eb-8f23-f964ee0ab43e.png)
 
 
 
-Baiklah saya akan menjelaskan fungsi - fungsi dari syntax tersebut:
+Disini saya akan menjelaskan fungsi - fungsi dari syntax berikut:
 
 
 Keterangan:
 
 ○ Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama
+
 
 1. Tambah data nilai mahasiswa
 
@@ -38,6 +40,7 @@ Keterangan:
 ○ def tambah, def digunakan untuk membuat fungsi lalu tambah digunakan agar ketika kita memilih menu tambah langsung mengeksekusi syntax tersebut
 
 ○ Lalu kita buat inputan nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu kita buat hasil / total dari keseluruhan nilai
+
 
 2. Tampilkan data nilai mahasiswa
 
@@ -73,6 +76,7 @@ Keterangan:
 ○ Lalu del untuk menghapus semua data nilai mahasiswa tersebut
 
 ○ Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
+
 
 4. Ubah data nilai mahasiswa
 
@@ -112,24 +116,32 @@ Keterangan:
 
 ○ Lalu else digunakan agar ketika kita tidak memilih pilihan menu maka akan muncul tulisan "pilih menu yang tersedia diatas"
 
+
+
 Maka ini adalah hasil running dari syntax di atas:
 
 
 
 1. Tambah data nilai mahasiswa
 
+
 ![tambah1](https://user-images.githubusercontent.com/72840534/101018708-7640df80-359e-11eb-88b1-56f83321c490.jpg)
+
 
 2. Tampilkan data nilai mahasiwa
 
+
 ![hasil tampil](https://user-images.githubusercontent.com/72840534/101018176-b5226580-359d-11eb-922c-5617c85fbd6a.jpg)
 
+
 3. Hapus data nilai mahasiswa
+
 
 ![hasil menghapus](https://user-images.githubusercontent.com/72840534/101018259-ce2b1680-359d-11eb-8dbd-8c15db2fe560.jpg)
 
 
 4. Tampilan Membuat menu Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
+
 
 ![hasil tampil menu](https://user-images.githubusercontent.com/72840534/101018021-768cab00-359d-11eb-84c0-0add2c279a8b.jpg)
 
@@ -138,3 +150,6 @@ Maka ini adalah hasil running dari syntax di atas:
 
 ![hasil keluar program](https://user-images.githubusercontent.com/72840534/101018435-15190c00-359e-11eb-9cf4-4a1745614c17.jpg)
 
+Sekian dan terimakasih
+
+Arip hidayattuloh-312010244
